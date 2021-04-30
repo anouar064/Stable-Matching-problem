@@ -1,6 +1,6 @@
 
-//Prénom et nom : Anouar Smaili
-//numéro étudiant: 300122959
+//Anouar 
+
 
 
 public class HeapPriorityQueue <K extends Comparable, V>implements PriorityQueue <K, V> {
