@@ -1,6 +1,5 @@
 
-//Prénom et nom : Anouar Smaili
-//numéro étudiant: 300122959
+//Anouar
 
 public interface PriorityQueue <K extends Comparable, V> {
 
