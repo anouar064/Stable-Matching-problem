@@ -1,6 +1,5 @@
 
-//Prénom et nom : Anouar Smaili
-//numéro étudiant: 300122959
+
 
 
 public class Entry <K extends Comparable, V> {
