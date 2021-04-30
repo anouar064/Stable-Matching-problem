@@ -1,6 +1,6 @@
 
-//Prénom et nom : Anouar Smaili
-//numéro étudiant: 300122959
+//Anouar
+
 
 import java.util.*;
 public class Stack
